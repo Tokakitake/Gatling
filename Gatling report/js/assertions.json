@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestTask",
+  "simulationId": "testtask",
+  "start": 1642888727348,
+  "description": "",
+  "scenarios": ["Fixed Load Test"],
+  "assertions": [
+
+  ]
+}
